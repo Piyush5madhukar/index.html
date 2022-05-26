@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+   <html>
+    
+    <head>
+        <title>
+            clone view
+        </title>
+        
+    </head>
+    
+    <body    background="gs.jpg"     height="50 px" width="50px">
+    
+     <p align="center"><img src="logobar.png"  ></p>
+          <br>
+          
+         
+          <table border="0" align="center"  >
+          
+          
+          <tr>
+           <td>
+            <p align ="center "> <img src="profiletwo.jpg" height="300"  width=" 290" style="border-radius: 110% "  align ="center "></p>
+                
+                 
+               <h1 style="font-size: 48 px">  
+                   &#128526;  
+                 </h1>
+                     
+                 <h2 style="color:black ;" >
+                     
+                     Hola Guys ,<br>
+                    <b> This is Piyush Kumar Madhukar</b> .<br>
+                     First year undergrad in Indian Institute Of Information Technology  Ranchi,<br>
+                      pursuing Bachelors Of Technology in Computer Science and Engineering.
+                      <br>
+                 </h2>
+                 
+                 <button onclick=""  style="color: aqua">  <a href=" https://www.linkedin.com/in/piyush-kumar-madhukar-76a751222/" target="_blank"   >>LINKEDIN  </a></button>
+                  
+          </td>
+          </tr>
+      </table>  
+        
+   
+      </body>
+    
+</html>
